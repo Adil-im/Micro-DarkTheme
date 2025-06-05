@@ -13,9 +13,11 @@ A Chill dark theme for the Micro text editor. Use this if you are just a chill d
 ## Set up
 
 1. Create a /colorschemes directory in your ~/.config/micro/ directory and navigate to the directory.
-```cd .config/micro/ && mkdir colorschemes```
+```
+cd .config/micro/ && mkdir colorschemes
+```
 
-2. Create a file with the name of the theme ending with .micro, for example ** dark.micro**.
+2. Create a file with the name of the theme ending with .micro, for example **dark.micro**.
 
 3. copy paste the code given in the file dark.micro to your .micro file and save it.
 
